@@ -1,0 +1,31 @@
+title: My Personal Blog
+author: Your Name
+email: your-email@example.com
+description: A personal blog about technology, life, and everything in between.
+url: "" # your GitHub Pages URL will go here
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+
+# Social media
+twitter_username: your_twitter
+github_username: your_github
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
