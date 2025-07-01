@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div class="home">
-  <h1>Welcome to My Blog</h1>
-  
+<div class="home" xmlns:width="http://www.w3.org/1999/xhtml">
+  <img width="100%" src="{{ '/assets/img/ce_01.JPG' | relative_url }}" alt="Curation Engine" class="hero-image">
+
   <div class="posts">
     {% for post in site.posts %}
       <article class="post-preview">

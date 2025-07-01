@@ -1,7 +1,7 @@
-title: Jeremedia Blog
-author: Jeremedia
-email: your-email@example.com
-description: A personal blog about technology, life, and everything in between.
+title: jeremedia
+author: Jeremy Roush
+email: j@jeremedia.com
+description: Sprinkles of things
 url: "https://jeremedia.github.io" # your GitHub Pages URL will go here
 baseurl: "" # the subpath of your site, e.g. /blog
 
