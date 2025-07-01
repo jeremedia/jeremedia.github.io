@@ -1,8 +1,8 @@
-title: My Personal Blog
-author: Your Name
+title: Jeremedia Blog
+author: Jeremedia
 email: your-email@example.com
 description: A personal blog about technology, life, and everything in between.
-url: "" # your GitHub Pages URL will go here
+url: "https://jeremedia.github.io" # your GitHub Pages URL will go here
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
@@ -17,8 +17,8 @@ paginate: 5
 paginate_path: "/page:num/"
 
 # Social media
-twitter_username: your_twitter
-github_username: your_github
+twitter_username: jeremedia
+github_username: jeremedia
 
 # Exclude from processing
 exclude:
