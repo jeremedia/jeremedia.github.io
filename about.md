@@ -18,7 +18,7 @@ I build reliable web and AI systems for the **Center for Homeland Defense & Sec
   - Create workflows that let non‑technical users retrieve, summarise, and apply complex information
 
 * **Founder, Curation Engine**
-  - 100% Procedural VR exhibition platform for Apple Vision Pro and upcoming headsets
+  - 100% Procedural VR exhibition platform for Vision Pro and upcoming headsets
   - Uses vector search and LLM‑generated narratives to build exhibits on demand alongside custom tools for curators
 
 ## Expertise

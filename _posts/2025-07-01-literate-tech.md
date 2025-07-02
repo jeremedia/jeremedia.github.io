@@ -13,5 +13,5 @@ Recently I’ve begun introducing the concept as “literate technology,” or L
 
 We don’t need "user interfaces" or write code to use LT. You can ask questions, describe problems, or draft reports the same way we did before computers: by reading, writing, and talking. Our technology is now literate, and that’s a big deal.
 
-This approach has been effective. Framing AI and LLMs as literate technology makes them feel less like mysterious black boxes and more like practical tools with clear boundaries. In this light, literate technology becomes a way to make literacy itself a computable resource which and that's its real value.
+This approach has been effective. Framing AI and LLMs as literate technology makes them feel less like mysterious black boxes and more like practical tools with clear boundaries. In this light, literate technology becomes a way to make literacy itself a computable resource and the value of literate computing is (usually) perfectly clear.
 
