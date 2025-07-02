@@ -47,5 +47,5 @@ I build reliable web and AI systems for the **Center for Homeland Defense & Sec
 ## Contact
 
 * Email: [j@jeremedia.com](mailto:j@jeremedia.com)
-* GitHub: https://github.com/jeremedia
-* LinkedIn: https://www.linkedin.com/in/jeremy-roush-a5b977187/
+* GitHub: [jeremedia](https://github.com/jeremedia)
+* LinkedIn: [Jeremy Roush](https://www.linkedin.com/in/jeremy-roush-a5b977187/)
