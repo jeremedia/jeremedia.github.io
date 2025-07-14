@@ -5,8 +5,6 @@ date: 2025-07-14
 categories: technology
 ---
 
-## Literate Technology at Work: A Real Example
-
 *Computing that works through conversation, turning plain language into executable action.*
 
 This migration case study is more than just a technical success story—it is a living example of *Literate Technology* in action.

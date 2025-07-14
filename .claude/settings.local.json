@@ -14,7 +14,12 @@
       "WebFetch(domain:www.john-rush.com)",
       "Bash(gem install:*)",
       "Bash(bundle install)",
-      "Bash(bundle exec:*)"
+      "Bash(bundle exec:*)",
+      "Bash(find:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(bundle list:*)",
+      "Bash(mv:*)"
     ],
     "deny": []
   }
