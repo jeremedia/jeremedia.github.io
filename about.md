@@ -8,9 +8,7 @@ I build reliable web and AI systems for the **Center for Homeland Defense & Sec
 
 ## Current Roles
 
-- **Instructing AI Specialist, CHDS**
-
-    - Lead (only) developer for several student‑facing and internal custom apps
+* **Instructing AI Specialist, CHDS**
 
 * **Product Owner, Central**
     - Integrate large‑language models with a 250 000‑document Homeland Security Digital Library

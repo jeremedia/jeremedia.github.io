@@ -19,7 +19,8 @@
       "Bash(ls:*)",
       "Bash(cat:*)",
       "Bash(bundle list:*)",
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "Bash(/usr/bin/git status)"
     ],
     "deny": []
   }
